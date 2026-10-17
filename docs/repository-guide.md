@@ -5,7 +5,7 @@
 | Repository | Owns |
 | --- | --- |
 | `.github` | Public organization profile and shared contributor resources |
-| `Lightstream-Engine` | The Swift package and its engine-foundation research |
+| `Lightstream-Engine` | Reusable s&box runtime systems, editor extensions, and authoring tools |
 | `Projekt-Alpha` | The s&box project, game code, scenes, and project-specific documentation |
 | `bazzite-cosmic` | The Bazzite-derived operating-system experiment; preserve upstream attribution and licensing |
 
@@ -17,7 +17,7 @@ Use the current repository names in clone URLs, documentation, and integrations.
 
 Start every project with a concise README containing its purpose, current implementation status, prerequisites, setup steps, verification steps, and source map. Keep detailed setup and architecture notes under `docs/` when needed.
 
-Document a feature as implemented only when its source or a verified release supports that description. Distinguish the standalone Swift work in Lightstream-Engine from the separate s&box-based development workflow.
+Document a feature as implemented only when its source or a verified release supports that description. Lightstream-Engine now targets s&box; its standalone Swift prototype is preserved on separate branches. Describe the current main branch as a foundation until executable SDK code and a verified integration exist.
 
 Use repository Issues for active tasks and decisions that need ownership. Keep historical checklists clearly marked as reference material.
 
@@ -34,7 +34,7 @@ These are recommendations, not settings changed by this documentation pull reque
 | Repository | Suggested About description | Suggested topics |
 | --- | --- | --- |
 | `.github` | Studio Prism's organization profile and shared contributor resources. | `studio-prism`, `documentation` |
-| `Lightstream-Engine` | Experimental Swift engine foundations and math utilities by Studio Prism. | `swift`, `game-engine`, `gamedev`, `swift-package-manager` |
+| `Lightstream-Engine` | Studio Prism's framework and SDK work built in and around s&box. | `sbox`, `csharp`, `gamedev`, `sdk` |
 | `Projekt-Alpha` | Studio Prism's experimental s&box game prototype. | `sbox`, `csharp`, `gamedev`, `prototype` |
 | `bazzite-cosmic` | Studio Prism's experimental COSMIC-focused Bazzite fork. | `bazzite`, `cosmic-desktop`, `linux`, `experiment` |
 
