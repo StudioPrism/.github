@@ -12,7 +12,7 @@ We build game prototypes and the technology that supports them, with a focus on 
 
 | Repository | Focus | Current stage |
 | --- | --- | --- |
-| [Lightstream Engine](https://github.com/StudioPrism/Lightstream-Engine) | Swift engine foundations and math utilities | Early development |
+| [Lightstream Engine](https://github.com/StudioPrism/Lightstream-Engine) | Framework and SDK work built around s&box | Early development |
 | [Projekt Alpha](https://github.com/StudioPrism/Projekt-Alpha) | An experimental game project built in s&box | Prototype |
 | [Bazzite COSMIC](https://github.com/StudioPrism/bazzite-cosmic) | Our experimental COSMIC-focused Bazzite fork | Research and development |
 
