@@ -1,0 +1,31 @@
+name: Feature or development task
+description: Propose an improvement or define a bounded piece of work.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or goal
+      description: What should this work improve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Proposed outcome
+      description: Describe the expected behavior or deliverable.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and dependencies
+      description: Relevant systems, tools, assets, and constraints.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List observable checks that establish when the task is complete.
+      placeholder: |
+        - [ ] ...
+    validations:
+      required: true

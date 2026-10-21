@@ -1,32 +1,27 @@
-<!-- List Of Websites-->
-[linkedin]: https://www.linkedin.com/in/jordan-pryor/
-[gitlab]: https://gitlab.com/the-fifth-circle
-[twitter]: https://twitter.com/FifthCircleGame
-[reddit]: https://www.reddit.com/user/FifthCircleStudios
-[github]: https://github.com/fifthcirclestudios
-[outlook]: mailto:contact@fifthcirclestudios.com
-[paypal]: https://paypal.me/fifthcirclestudios
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StudioPrism/.github/main/profile/assets/prism-mark.svg" width="80" height="80" alt="Studio Prism emblem">
+</p>
 
-### <samp>&gt; Hi there, welcome to <a href="https://twitter.com/FifthCircleGame" target="_blank">Studio Prism</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h1 align="center">Studio Prism</h1>
 
-[![Gitlab Badge](https://img.shields.io/badge/gitlab-orange?style=flat-square&logo=gitlab&logoColor=white)][gitlab]
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat-square&logo=reddit&logoColor=white)][reddit]
+<p align="center">Independent games, engine research, and development tools.</p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=fifth-circle-studios)
+We build game prototypes and the technology that supports them, with a focus on responsive controls, expressive systems, and fast iteration.
 
-We are Studio Prism, an indie game development studio focused on creating immersive and innovative gaming experiences.
+## Explore our work
 
-We love crafting unique games that captivate and challenge players. Currently, we are working on several exciting projects that we can't wait to share with you.
+| Repository | Focus | Current stage |
+| --- | --- | --- |
+| [Lightstream Engine](https://github.com/StudioPrism/Lightstream-Engine) | Framework and SDK work built around s&box | Early development |
+| [Projekt Alpha](https://github.com/StudioPrism/Projekt-Alpha) | An experimental game project built in s&box | Prototype |
+| [Bazzite COSMIC](https://github.com/StudioPrism/bazzite-cosmic) | Our experimental COSMIC-focused Bazzite fork | Research and development |
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJhNmZzaDJzeHEzdXUyeDExMDJpbXZleWFlanU2ODR2cDhoYmN5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" height="200" />
+Each repository's README describes what is implemented, how to get started, and what still needs work. Projects are experimental unless a repository explicitly identifies a supported release.
 
-**Talking about Our Studio:**
+## Development at Prism
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; We’re currently working on something exciting. More info to come!
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Our team is composed of passionate developers, artists, and designers.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask us anything, we’re here to help and share.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach us: [contact@fifthcirclestudios.com][outlook]
+Our workflow connects game development, reusable engine components, and tools for code and asset creation. Public repositories document the work that is available here; planned systems are identified separately from implemented features.
 
-</br>
+For setup help or project-specific questions, start with the relevant repository's documentation and Issues. Before contributing, read its contribution guidance and licensing notices.
+
+[Browse repositories](https://github.com/orgs/StudioPrism/repositories) · [Contribution guide](https://github.com/StudioPrism/.github/blob/main/CONTRIBUTING.md)
